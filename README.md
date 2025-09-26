@@ -1,4 +1,7 @@
-# nixbus
+# NixBUS
+
+ ![https://cdn-icons-png.flaticon.com/128/1068/1068580.png](https://cdn-icons-png.flaticon.com/128/1068/1068580.png)
+
 A opinionated, minimal NixOS configuration for a BackUp Server (BUS).
 
 The server needs to be quick to spin up as a target for ZFS send over Tailscale.
